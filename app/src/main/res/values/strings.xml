@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agri Go</string>
+    <string name="recently_visited_title">Recently Visited</string>
+    <string name="recent_feature_one">Leaf Detection</string>
+    <string name="recent_feature_two">Soil Analysis</string>
+    <string name="about_title">About</string>
+    <string name="about_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="menu_leaf_detection">Leaf Detection</string>
+    <string name="menu_soil_analysis">Soil Analysis</string>
+    <string name="menu_weather">Weather</string>
+    <string name="menu_marketplace">Marketplace</string>
+</resources>
